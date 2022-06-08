@@ -9,7 +9,7 @@ Estarei utilizando Python com POO e algumas bibliotecas
  
 - Instalar o **_textblol_** que é a biblioteca python para processamento de dados textuais via **pip install**
 
-- Intalar o **_NLKT_** corpora seguindo o comando: python -m textblob.dowload_corpora
+- Intalar o **_NLTK_** corpora seguindo o comando: python -m textblob.dowload_corpora
 
 ## Autenticação 
 - Usar a conta de dev do twitter para criar um novo projeto e usar as Copy ‘Consumer Key’, ‘Consumer Secret’, ‘Access token’ and ‘Access Token Secret’.
