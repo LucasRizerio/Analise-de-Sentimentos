@@ -15,7 +15,7 @@ Estarei utilizando Python com POO e algumas bibliotecas
 - Usar a conta de dev do twitter para criar um novo projeto e usar as Copy ‘Consumer Key’, ‘Consumer Secret’, ‘Access token’ and ‘Access Token Secret’.
 - Deve ter acesso a **_'Elevated'_** do twetter dev
 
-### Depois de executar o código o output vai ser assim
+### Depois de executar o código o output vai ser assim:
 
 A porcentagem de tweets positivos, negativos e neutros
 
